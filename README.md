@@ -19,7 +19,7 @@ Nesse repositório você ira encontrar uma das coisas que aprendi no módulo de 
 - code .
 
 ## O que aprendi ?
-Como o próprio nome do repositório já diz, eu apredi sobre o atributo (input) e o seu valor padrão (text).
+Como o próprio nome do repositório já diz, eu aprendi sobre o atributo (input) e o seu valor padrão (text).
 
 ## Dificuldades 
 Talvez por ser HTML intermediário ou porque o método de ensino dos gêmeos seja bom; mas eu não tive dificuldades em entender a funcionalidade deste atributo, junto com o seu valor padrão, aprendido na aula.
